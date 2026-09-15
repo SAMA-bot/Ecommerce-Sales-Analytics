@@ -113,14 +113,6 @@ static version of the completed dashboard.
 -   Power BI report formatting
 -   Visual storytelling
 
-## 📷 Dashboard Preview
-
-Add a screenshot of the final dashboard to the repository:
-
-``` markdown
-![Sales Performance Dashboard](dashboard-preview.png)
-```
-
 ## 👤 Author
 
 **Sam**
